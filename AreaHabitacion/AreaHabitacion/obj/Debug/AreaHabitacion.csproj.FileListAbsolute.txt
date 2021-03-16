@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\bin\Debug\AreaHabitacion.exe.config
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\bin\Debug\AreaHabitacion.exe
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\bin\Debug\AreaHabitacion.pdb
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.Form1.resources
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.Properties.Resources.resources
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.exe
+C:\Users\jared\source\repos\AreaHabitacion\AreaHabitacion\obj\Debug\AreaHabitacion.pdb
